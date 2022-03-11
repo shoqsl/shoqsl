@@ -6,8 +6,9 @@
       - Python\
       - Linux\
     Secondary Experience:\
-      - C/C++\
-      - SQL
+      - C/C++/C#\
+      - SQL\
+      - JavaScript
         
 - 👀 I’m interested in ...\
   - Android Apps\
