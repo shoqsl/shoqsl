@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shoqsl\
-    I am 25 and located in Southeast Missouri, USA\
+    I am 26 and located in Southeast Missouri, USA\
     B.S. Cybersecurity SEMO University
     
     Primary Experience:\
